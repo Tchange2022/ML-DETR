@@ -54,7 +54,7 @@ A self-built multi-view cherry tomato dataset covering three cultivars (purple /
 
 ```bash
 # Python 3.9 + CUDA 11.6 (the environment this project was developed in)
-git clone https://github.com/【你的用户名】/ML-DETR.git
+git clone https://github.com/Tchange2022/ML-DETR.git
 cd ML-DETR
 pip install -r requirements.txt
 pip install -e .
